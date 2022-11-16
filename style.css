@@ -6,8 +6,8 @@ body {
 	width: 100%;
 }
 
-h1 {
-	text-align: center
+.principal{
+	  background: #CCCCCC
 }
 
 p {
@@ -20,4 +20,12 @@ p {
 
 em strong {
 	color: #FF0000;
+}
+
+.itens {
+	 font-style:italic;
+}
+
+.Beneficios{
+    background: #FFFFFF;
 }
